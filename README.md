@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shankar,
-- 👀 I’m interested in Data structures & Algorithms, advanced java, SQL and Spring boot,
+- 👀 I’m interested in Data structures & Algorithms,Java, advanced java, SQL and Spring boot,
 - 🌱 I’m currently learning Spring boot 
 - 💞️ I’m looking to collaborate on an MNC companies
 - 📫 reach me via shansolay12@gmail.com 
